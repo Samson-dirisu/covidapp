@@ -1,6 +1,6 @@
 # covidapp
 
-A new Flutter project.
+A flutter app that tracks world wide update about covid 19
 
 ## Getting Started
 
